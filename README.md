@@ -1,16 +1,35 @@
-## Hi there 👋
+Safdar Hussain
+Builder | AI • Web • Automation
+🎓 B.Sc. Mathematics (Hons) | Sem 4
+🧠 Mindset: Systems over shortcuts
 
-<!--
-**safdar683/safdar683** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ What I do
 
-Here are some ideas to get you started:
+Build real projects, not just demos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learn in public, improve in private
+
+Experiment relentlessly, refine intelligently
+
+🛠 Tech Stack
+Python | JavaScript | HTML | CSS
+Git | GitHub | Backend & AI fundamentals
+
+📌 Current Focus
+
+Daily GitHub commits (consistency is strategy)
+
+One project at a time (execution beats chaos)
+
+Strong foundations: math, logic, system design
+
+🎯 Long-Term Vision
+
+Crack UPSC with analytical depth
+
+Build a personal AI (Jarvis-grade, not toy-level)
+
+Create scalable, future-proof products
+
+📫 Reach me
+Instagram: @safdar_vibes
